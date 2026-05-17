@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Sou Analista de Dados com 10 anos de bagagem em planejamento estratégico, gestão de stakeholders e inteligência de negócios. Meu foco é unir o pensamento estratégico à análise de dados para transformar grandes volumes de informação em soluções práticas e resultados reais.
+
+### 📫 Vamos nos conectar?
+* [LinkedIn](amanda-castro-s)
 <!--
 **castroamanda/castroamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
